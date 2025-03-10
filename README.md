@@ -19,7 +19,7 @@ Kaggle
 
 	As a **junior data analyst**, my task is to analyze publicly available **Fitbit fitness tracker data** to uncover trends in **daily activity, sleep, stress, and health habits**. These insights will help **optimize Bellabeat’s marketing strategy** and guide product improvements.
 	
-	The final deliverable will include **data-driven recommendations** on how Bellabeat can align its **products, engagement strategies, and marketing efforts** with consumer behavior trends to drive growth. 🚀
+	The final deliverable will include **data-driven recommendations** on how Bellabeat can align its **products, engagement strategies, and marketing efforts** with consumer behavior trends to drive growth. 
 
 	## Problem Statement:
 	Bellabeat aims to expand its market presence by analyzing **smart device usage trends** from Fitbit data. The goal is to understand **user behavior in activity, sleep, and wellness tracking** to optimize **marketing strategies** and **product development**.
@@ -113,6 +113,7 @@ Have you documented your cleaning process?
 # Analyze
 
 ![image](https://github.com/user-attachments/assets/ce0d656f-6afb-42af-996c-44e356dc157b)
+
 The scatter plot shows a **positive correlation** between total steps taken and calories burned, indicating that higher physical activity generally leads to greater calorie expenditure. However, the trend line suggests a **nonlinear relationship**, where calorie burn increases rapidly at first but plateaus at higher step counts. Some **outliers** exist, particularly for extremely high step counts, where calorie expenditure varies. This insight can help Bellabeat personalize fitness recommendations by setting optimal step goals for effective calorie burning.
 
 
